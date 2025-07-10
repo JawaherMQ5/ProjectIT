@@ -28,11 +28,11 @@ The idea of the project is to create an **interactive university guide** website
 
 | Home Page Dark | Home Page Light |
 |-----------|----------|
-| ![Home1](./images/screenshot1.png) | ![Home2](./images/screenshot2.png) |
+| ![Home1](Home1.png) | ![Home2](Home2.png) |
 
 | Second Page Dark | Second Page Light |
 |----------|--------------|
-| ![Second1](./images/screenshot3.png) | ![Second2](./images/screenshot4.png) |
+| ![Second1](second1.png) | ![Second2](second2.png) |
 
 > ℹ️ *Make sure your image files are saved in a folder called `images/` in your repo, and named as shown.*
 
