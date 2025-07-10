@@ -34,8 +34,6 @@ The idea of the project is to create an **interactive university guide** website
 |----------|--------------|
 | ![Second1](second1.png) | ![Second2](second2.png) |
 
-> ℹ️ *Make sure your image files are saved in a folder called `images/` in your repo, and named as shown.*
-
 ---
 
 ## 🚀 Features
@@ -59,9 +57,7 @@ The idea of the project is to create an **interactive university guide** website
 ## 💻 How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/taif-university-guide
-
+ 
 2. Open the project in Visual Studio Code
 
 3. Use Live Server extension to preview HTML pages
