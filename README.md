@@ -44,7 +44,6 @@ The idea of the project is to create an **interactive university guide** website
 - 🔗 Quick access to useful student portals and services
 - 🗺️ Campus and department navigation
 - 📬 Interactive contact form
-- 📱 Fully responsive (mobile-friendly)
 
 ---
 
